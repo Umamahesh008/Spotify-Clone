@@ -1,4 +1,4 @@
-# 🎵 Full-Stack Music Web App
+# 🎵 Spotify Clone Web App
 
 A feature-rich music streaming web application built using modern web technologies, allowing users to stream, manage, and explore music seamlessly.
 
@@ -34,13 +34,18 @@ Deployment: Vercel / Netlify / AWS
 
 # 📦 Installation & Setup
 
-Clone the Repository
+# Clone the Repository:
+git clone https://github.com/Umamahesh008/Spotify-Clone-music-app.git
+cd Spotify-Clone-music-app
 
- Install Dependencies
+ # Install Dependencies:
+ npm install  # or yarn install
+ 
+# Set Up Environment Variables:
+Create a .env file in the root directory and add necessary API keys
 
-Set Up Environment Variables
-
-Run the Development Server
+# Run the Development Server:
+npm run dev  # or yarn dev
 
 
 
