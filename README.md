@@ -1,8 +1,8 @@
 # 🎵 Full-Stack Music Web App
 
-# A feature-rich music streaming web application built using modern web technologies, allowing users to stream, manage, and explore music seamlessly.
+A feature-rich music streaming web application built using modern web technologies, allowing users to stream, manage, and explore music seamlessly.
 
-🚀 Features
+# 🚀 Features
 
 🎶 Stream and play music
 
@@ -18,7 +18,7 @@
 
 🌐 Responsive design for all devices
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React.js, Next.js, Tailwind CSS
 
@@ -31,5 +31,17 @@ Authentication: Firebase/Auth0/JWT
 Storage: Cloudinary/AWS S3 for media files
 
 Deployment: Vercel / Netlify / AWS
+
+# 📦 Installation & Setup
+
+Clone the Repository
+
+ Install Dependencies
+
+Set Up Environment Variables
+
+Run the Development Server
+
+
 
 
